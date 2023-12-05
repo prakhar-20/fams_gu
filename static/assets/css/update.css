@@ -1,0 +1,24 @@
+.full-width {
+    width: 100%;
+}
+
+.content-container {
+    max-width: 800px; /* Set your desired maximum width */
+    margin: 0 auto; /* Center the container */
+}
+
+.details {
+    /* Add your styles for details */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Add margin as needed */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}

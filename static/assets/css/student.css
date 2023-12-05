@@ -1,0 +1,24 @@
+/* styles.css */
+.table-container {
+    margin-top: 20px;
+  }
+  
+  .table-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table-container table th,
+  .table-container table td {
+    padding: 8px 16px;
+    border: 1px solid #ccc;
+  }
+  
+  .table-container table th {
+    background-color: #f7f7f7;
+  }
+  .details {
+    display: inline-block;
+    margin-right: 20px; /* Adjust this value as needed for spacing */
+}
+  
